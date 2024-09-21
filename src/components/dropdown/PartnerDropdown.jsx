@@ -21,9 +21,10 @@ const PartnerDropdown = () => {
             <ul
               className="p-3  font-semibold text-gray-500"
             >
-              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Full Stack </li>
-              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">CSE Engineer</li>
-              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Software Engineer</li>
+              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Md.Hasan Kha </li>
+              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Abdur Rahman Rahat</li>
+              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Kamruzzaman bayezid</li>
+              <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Mst Setu AKther</li>
             </ul>
           </div>
         )}

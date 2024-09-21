@@ -21,9 +21,9 @@ const LanguageDropdown = () => {
           <ul
             className="p-3  font-semibold text-gray-500"
           >
-            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Full Stack </li>
-            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">CSE Engineer</li>
-            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Software Engineer</li>
+            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">JavaScript </li>
+            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">React.js</li>
+            <li className="hover:text-[#49BBBD] mb-3 border p-2 rounded">Express.js</li>
           </ul>
         </div>
       )}
